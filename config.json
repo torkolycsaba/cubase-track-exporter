@@ -1,0 +1,11 @@
+{
+    "project_file": "C:/path/to/your/project.cpr",
+    "export_hotkey": [
+        "ctrl",
+        "shift",
+        "o"
+    ],
+    "pause_key": "ctrl+f9",
+    "stop_key": "ctrl+f10",
+    "pixel_per_scroll": 30
+}
